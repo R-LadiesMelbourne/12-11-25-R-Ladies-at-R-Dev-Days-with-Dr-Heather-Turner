@@ -5,7 +5,7 @@ Under her research software engineering fellowship "Sustainability and EDI (Equa
 
 In this talk, Heather gives some insight into the tasks that people have worked on at R Dev Days, highlighting some examples that R-Ladies have been involved in. It's broader than you might think, including translation, dashboards, websites, the contributor guide, and CRAN utilities, as well as the code and documentation of base R. She explains different ways to get involved, including joining the upcoming hybrid events at Monash University (https://pretix.eu/r-contributors/r-dev-day-oz-25/) and the University of Auckland (https://pretix.eu/r-contributors/r-dev-day-nz-25/).
 
-📍 This event was held at Monash City Campus on the 12th of November 2026.
+📍 This event was held at Monash City Campus on the 12th of November 2025.
 
 🎞️ Watch the event recording [here](https://www.youtube.com/watch?v=CnIoEVT6EIE).
 
